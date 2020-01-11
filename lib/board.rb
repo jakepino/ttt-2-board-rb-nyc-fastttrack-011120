@@ -1,1 +1,1 @@
-row = [" ", " ", " ", " ", " ", " ", " ", " ", " " ]# Define the variable board below.
+row = [" ", " ", " ", " ", " ", " ", " ", " ", " " ] # Define the variable board below.
